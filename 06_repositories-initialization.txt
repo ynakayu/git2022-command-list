@@ -1,0 +1,5 @@
+$ mkdir tutorial
+
+$ cd tutorial
+
+$ git init

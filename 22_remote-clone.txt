@@ -1,0 +1,8 @@
+// xxxxxには、クローンしたいリポジトリのURL
+$ git clone xxxxx
+
+$ git clone xxxxx tutorial_2
+
+$ cd tutorial_2
+
+$ ls

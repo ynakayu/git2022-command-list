@@ -1,0 +1,7 @@
+$ git remote add origin git@github.com:learnwithnakamura/tutorial.git
+
+$ git branch
+
+$ git checkout main
+
+$ git push -u origin main

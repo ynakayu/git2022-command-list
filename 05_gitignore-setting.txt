@@ -1,0 +1,7 @@
+$ mkdir -p ~/.config/git
+
+$ vim ~/.config/git/ignore
+
+$ mkdir -p ~/.config/git
+
+$ vim ~/.config/git/ignore

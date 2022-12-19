@@ -1,0 +1,7 @@
+$ git log
+
+$ git log a.js
+
+$ git log -p
+
+$ git log -p a.js

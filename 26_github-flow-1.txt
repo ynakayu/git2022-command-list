@@ -1,0 +1,26 @@
+// xxxxxには、クローンしたいリポジトリのURL
+$ git clone xxxxx
+
+$ ls
+
+$ cd learn-githubflow
+
+$ ls
+
+$ git branch
+
+$ git checkout -b feature-hello
+
+$ git branch
+
+$ touch hello.rb
+
+$ git add hello.rb
+
+$ git diff HEAD
+
+$ git commit -m "add hello"
+
+$ git log -p
+
+$ git push origin feature-hello

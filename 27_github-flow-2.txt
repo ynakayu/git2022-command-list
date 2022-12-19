@@ -1,0 +1,17 @@
+$ git add hello.rb
+
+$ git diff HEAD
+
+$ git commit -m "「Hello」を「こんにちは」に修正"
+
+$ git push origin feature-hello
+
+$ git checkout main
+
+$ git branch
+
+$ ls
+
+$ git pull
+
+$ ls

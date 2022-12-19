@@ -1,0 +1,18 @@
+$ touch remove.js
+
+$ git add remove.js
+
+$ git diff HEAD
+
+$ git commit -m "add remove.js"
+
+$ git log -p
+
+$ git rm remove.js
+
+$ git diff HEAD
+
+$ git commit -m "remove remove.js"
+
+// xxxxxには削除したいディレクトリ
+$ git rm -r xxxxx

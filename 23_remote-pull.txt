@@ -1,0 +1,31 @@
+$ git checkout -b other-developper
+
+$ touch other.js
+
+$ git add other.js
+
+$ git commit -m 'add other.js'
+
+$ git checkout main
+
+$ git merge --no-ff other-developper
+
+$ git log –graph
+
+$ git push -u origin main
+
+$ git checkout main
+
+$ git log –graph
+
+$ git fetch origin
+
+$ git diff origin/main
+
+$ git pull
+
+$ ls
+
+$ git diff origin/main
+
+$ git log –graph

@@ -1,0 +1,25 @@
+$ git branch
+
+$ git branch feature-A
+
+$ git checkout feature-A
+
+$ git checkout -b 作成したいブランチ名
+
+$ git branch
+
+$ git add a.js
+
+$ git diff HEAD
+
+$ git commit -m "update to feature-A"
+
+$ git checkout main
+
+$ git branch
+
+$ git checkout -
+
+$ git checkout feature-A
+
+$ git branch

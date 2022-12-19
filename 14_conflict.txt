@@ -1,0 +1,27 @@
+$ git checkout -b feature-B
+
+$ git branch
+
+$ git add a.js
+
+$ git commit -m "update to feature-B"
+
+$ git checkout main
+
+$ git checkout -b feature-C
+
+$ git add a.js
+
+$ git commit -m "update to feature-C"
+
+$ git checkout main
+
+$ git merge --no-ff feature-B
+
+$ git merge --no-ff feature-C
+
+$ git add a.js
+
+$ git commit -m "fixed conflict"
+
+$ git log --graph

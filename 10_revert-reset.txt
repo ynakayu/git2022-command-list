@@ -1,0 +1,32 @@
+$ git add a.js
+
+$ git diff HEAD
+
+$ git commit -m "add R"
+
+$ git log -p
+
+// xxxxxには、コミットを指し占めすハッシュ
+$ git revert xxxxx
+
+$ git add a.js
+
+$ git diff HEAD
+
+$ git commit -m "add RR"
+
+$ git log -p
+
+$ git revert HEAD
+
+$ git log -p
+
+$ git add  a.js
+
+$ git diff HEAD
+
+$ git commit -m "add reset"
+
+$ git log -p
+
+$ git log

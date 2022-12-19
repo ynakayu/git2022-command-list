@@ -1,0 +1,19 @@
+$ touch  a.js
+
+$ git status
+
+$ git add a.js
+
+$ git status
+
+$ touch b.js
+
+$ git status
+
+$ git add b.js
+
+$ git status
+
+$ git commit -m "first commit"
+
+$ git status
